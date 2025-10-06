@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sinner-circle-optimizer/static/css/main.c8bd0f5b.css",
+    "main.js": "/sinner-circle-optimizer/static/js/main.ecc76207.js",
+    "static/js/453.913be3f2.chunk.js": "/sinner-circle-optimizer/static/js/453.913be3f2.chunk.js",
+    "index.html": "/sinner-circle-optimizer/index.html",
+    "main.c8bd0f5b.css.map": "/sinner-circle-optimizer/static/css/main.c8bd0f5b.css.map",
+    "main.ecc76207.js.map": "/sinner-circle-optimizer/static/js/main.ecc76207.js.map",
+    "453.913be3f2.chunk.js.map": "/sinner-circle-optimizer/static/js/453.913be3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8bd0f5b.css",
+    "static/js/main.ecc76207.js"
+  ]
+}
